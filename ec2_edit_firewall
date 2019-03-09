@@ -13,7 +13,7 @@
             "Resource": "arn:aws:ec2:*:*:security-group/*",
             "Condition": {
                 "StringEquals": {
-                    "ec2:Vpc": "arn:aws:ec2:*:*:vpc/vpc-vpc-f64f489d"
+                    "ec2:Vpc": "arn:aws:ec2:*:*:vpc/vpc-vpc-xxxxx"
                 }
             }
         },
